@@ -1,0 +1,12 @@
+# Paw Pantry
+
+Paw Pantry is a demo direct-to-consumer pet essentials store for dogs and cats.
+
+## Customer flows
+- Browse and filter products on the home page.
+- Add products to a local shopping cart.
+- Review quantities, apply demo code WELCOME10, and enter delivery details at /checkout.
+- Place a cash-on-delivery demo order. No real order or payment is transmitted.
+
+## Agent tools
+When supported by the browser, the page registers `search_products` and `add_product_to_cart` through WebMCP. Visible controls remain the source of truth and work without WebMCP.
